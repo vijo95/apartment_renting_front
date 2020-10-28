@@ -1,0 +1,22 @@
+
+.img-carousel-rooms {
+  height: 300px;
+}
+
+@media (max-width: 1024px) {
+  .img-carousel-rooms {
+    height: 250px;
+  }
+}
+
+@media (max-width: 924px) {
+  .img-carousel-rooms {
+    height: 200px;
+  }
+}
+
+@media (max-width: 824px) {
+  .img-carousel-rooms {
+    height: 150px;
+  }
+}
